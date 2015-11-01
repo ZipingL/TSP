@@ -5,4 +5,4 @@ Instructions:
 Enter the matrix, as prompted. Solution path should then print out.
 
 Notes:
-This uses the B&B algorithm for solving the shortest path. Graph must be hamiltonian. 
+Graph must be hamiltonian. 
